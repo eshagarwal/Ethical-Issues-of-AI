@@ -1,5 +1,7 @@
 # Ethical Analysis of Loan Approval Dataset
 
+## Try it out now -> <https://eshagarwal.github.io/Ethical-Issues-of-AI/>
+
 ## Project Overview
 
 This project analyzes a loan approval dataset to identify and quantify potential ethical biases in the decision-making process. The primary goal is to determine if predictive models, even when not explicitly trained on a sensitive attribute like gender, exhibit bias in their outcomes.
